@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">healthcare</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+        <string name="hyperlink">Want to see where we are?\n<a href="https://www.google.com/maps/place/R.S.+Puram,+Coimbatore,+Tamil+Nadu/@11.0082223,76.9412557,15z/data=!3m1!4b1!4m6!3m5!1s0x3ba8591c7f4e7ba5:0x55632b2830cb9f8a!8m2!3d11.0101698!4d76.9504373!16s%2Fg%2F12cq1_sk_">See here</a></string>
+
+</resources>
