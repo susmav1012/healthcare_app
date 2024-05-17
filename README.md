@@ -8,8 +8,7 @@ This is a healthcare application built in Android Studio using Java. It provides
 2. [Technologies Used](#technologies-used)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Screenshots](#screenshots)
-6. [Contributing](#contributing)
+5. [Contributing](#contributing)
 
 ## Features
 
@@ -48,13 +47,6 @@ git clone https://github.com/your_username/healthcare-app.git
 - Login with your credentials or register for a new account.
 - Explore different sections such as lab tests, medicines, finding doctors, reading health articles, and viewing order details.
 - Add items to your cart and proceed to checkout to place orders.
-
-## Screenshots
-
-![Login Screen](screenshots/login_screen.png)
-![Lab Test Screen](screenshots/lab_test_screen.png)
-![Medicine Screen](screenshots/medicine_screen.png)
-![Find Doctor Screen](screenshots/find_doctor_screen.png)
 
 ## Contributing
 
